@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"/>, I'm Timon</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="40"/>, I'm Fujita Seiichi</h1>
 <p align="center">🔧 Talk is cheap, show me the code.</p>
 
 <h3 align="left">About Me 👨‍💻</h3>
