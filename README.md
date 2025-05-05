@@ -3,7 +3,7 @@
 
 <h3 align="left">About Me 👨‍💻</h3>
 
-Hello there! I'm Timon, a passionate programmer who thrives on solving complex problems and crafting efficient, elegant solutions.
+Hello there! I'm Fujita Seiichi, a passionate programmer who thrives on solving complex problems and crafting efficient, elegant solutions.
 
 --------------
 - 🌱 Currently Learning: Rust and exploring low-level systems programming.
